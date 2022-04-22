@@ -36,7 +36,7 @@ const int httpPort = 80;
 const char *ssid = "CMCC-3hza";
 const char *password = "yky74f6q";
 const char* host = "api.seniverse.com";
-const char *host2 = "192.168.1.5";
+const char *host2 = "192.168.1.4";
 String cpu_frequence;
 String cpu_usage;
 String mem_usage;
